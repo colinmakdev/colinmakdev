@@ -9,12 +9,10 @@
   <!--<img src="https://github.com/fantasticdevking/fantasticdevking/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
     Welcome to my profile!<br>
-    I'm Jin Wang from Toronto, Canada.<br>
-    I studied in Math and Computer Science in 2016. As a professional developer, I have been working in software development since 2016.<br>
+    I majored in computer engineering in 2016. As a professional developer, I have been working in software development since 2016.<br>
     I have been worked in many projects in various industries including commerce, education, healthcare, construction and finance.<br>
     Currently focusing on the MERN stack, WebXR/WebGL.<br>
-    My goal is to find the simplest solution that meets your needs.<br><br>
-    https://funny-dev-site.vercel.app/<br>
+    My goal is to find the simplest solution that meets your needs.<br><br>    
   </p>
 </p>
 <br>
@@ -26,7 +24,3 @@
 📺 <b>Computer Graphic</b> : SVG, Canvas, OpenGL, WebGL, Three.js, Babylon.js, GSAP<br>
 🛢 <b>Database</b> : MongoDB, MySQL, SQLite, FireBase<br>
 🔸 Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel<br>
-## 😇 My Github Stats:
-<p align="center" style="margin-bottom: 10px;">
-<img src="https://github-profile-trophy.vercel.app/?username=funny-softdev&column=7&theme=onedark" alt="funny-softdev" />
-</p>
