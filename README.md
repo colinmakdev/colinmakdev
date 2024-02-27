@@ -2,17 +2,15 @@
 
 <h2 align="center">
   <p align="center">
-    <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Engineer;&center=true&width=800"></a>
+    <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=800"></a>
   </p>
 </h2>
 <p>
   <!--<img src="https://github.com/fantasticdevking/fantasticdevking/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
     Welcome to my profile!<br>
-    I majored in computer engineering in 2016. As a professional developer, I have been working in software development since 2016.<br>
-    I have been worked in many projects in various industries including commerce, education, healthcare, construction and finance.<br>
-    Currently focusing on the MERN stack, WebXR/WebGL.<br>
-    My goal is to find the simplest solution that meets your needs.<br><br>    
+    With a solid foundation in computer engineering established through a major completed in 2016, I embarked on a dynamic journey in the realm of software development. Over the past several years, I've cultivated expertise in various facets of the development lifecycle, honing my skills across multiple programming languages, frameworks, and technologies.<br><br>
+Driven by a relentless curiosity and a desire to push boundaries, I am committed to making meaningful contributions to the ever-evolving landscape of software development.<br><br>
   </p>
 </p>
 <br>
