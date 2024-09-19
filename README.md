@@ -72,8 +72,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-D83B01?style=for-the-badge&logo=aws&logoColor=white) 
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-D83B01?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white) 
 </p>
 
 </br>
