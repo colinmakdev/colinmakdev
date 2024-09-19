@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-<h2 align="center">
-  <p align="center">
-    <a href="https://github.com/funny-softdev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=800"></a>
-  </p>
+<img align="center" alt="coding" width="350"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
+
+<h2 align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=800"/>  
 </h2>
 <br/>
-
-<img align="right" alt="coding" width="350"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
 - 🔭 I’m currently working as a **Full Stack | WebVR developer**
 - 💬 Ask me about **WebGL, Three.js, Python, Frontend, Backend**
