@@ -1,18 +1,17 @@
-### Hi there 👋
-
-<img align="center" alt="coding" src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
 <h2 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=800"/>  
 </h2>
 <br/>
 
+<img align="center" alt="coding" height="300" src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
+
 - 🔭 I’m currently working as a **Full Stack | WebVR developer**
 - 💬 Ask me about **WebGL, Three.js, Python, Frontend, Backend**
 - 🌎 I know **English, Chinese**
 - ⚡ About Me: I'm a **Day Dreamer**
 - 📍 From **Hong Kong**
-<br/><br/><br/>
+<br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
