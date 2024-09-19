@@ -3,7 +3,7 @@
 </h2>
 <br/>
 
-<img align="right" alt="coding" height="300"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
+<img align="right" alt="coding" width="300"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
 - 🔭 I’m currently working as a **Full Stack | WebVR developer**
 - 💬 Ask me about **WebGL, Three.js, Python, Frontend, Backend**
