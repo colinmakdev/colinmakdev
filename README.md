@@ -10,9 +10,9 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working as **Full Stack | MERN | WebXR developer**
-- 💬 Ask me about **WebGL, Three.js, Frontend, Backend, **
+- 💬 Ask me about **WebGL, Three.js, Frontend, Backend**
 - 🌎 I know **English, Chinese.**
-- ⚡ About Me: I'm a *Day Dreamer*
+- ⚡ About Me: I'm a **Day Dreamer**
 - 📍 From **Hong Kong**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
