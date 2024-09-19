@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" alt="coding" width="350"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
+<img align="center" alt="coding" src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
 <h2 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=800"/>  
