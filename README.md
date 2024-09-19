@@ -14,6 +14,7 @@
 - 🌎 I know **English, Chinese.**
 - ⚡ About Me: I'm a **Day Dreamer**
 - 📍 From **Hong Kong**
+<br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -49,7 +50,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-33330F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-
     
 - **Application and Tools:**
 
