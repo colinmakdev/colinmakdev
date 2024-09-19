@@ -49,7 +49,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-Gray?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![WebGL](https://img.shields.io/badge/WebGL-EEEEEE.svg?style=for-the-badge&logo=webgl&logoColor=CB3837)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23CB3837.svg?style=for-the-badge&logo=web3js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23CB3837.svg?style=for-the-badge&logo=web3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 - **Databases:**  
