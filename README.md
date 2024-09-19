@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="300"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
 - 🔭 I’m currently working as a **Full Stack | WebVR developer**
-- 💬 Ask me about **WebGL, Three.js, Python, Frontend, Backend**
+- 💬 Ask me about **Three.js, WebVR**
 - 🌎 I know **English, Chinese**
-- ⚡ About Me: I'm a **Day Dreamer**
+- ⚡ **<a href="https://funny-showroom.vercel.app/">About ME</a>**
 - 📍 From **Hong Kong**
 <br/><br/>
 
