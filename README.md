@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working as a **Full Stack | WebVR developer**
 - 💬 Ask me about **Three.js, WebVR**
-- 🌎 I know **English, Chinese**
 - ⚡ **<a href="https://funny-web-site.vercel.app/">About ME</a>**
-- 📍 From **Hong Kong**
 <br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
