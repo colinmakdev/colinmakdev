@@ -3,8 +3,7 @@
 </h2>
 <br/>
 
-<img align="right" alt="coding" width="300"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
-
+<img align="right" alt="coding" width="400"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 Experienced full-stack developer with over 10 years of expertise in building scalable, high-performance web and blockchain applications. Proficient in JavaScript, TypeScript, C++, Python, React, Vue.js, Node.js, Express.js, WebGL, and Three.js, with a passion for developing immersive 3D web experiences. Skilled in backend technologies like PHP/Laravel, Python/Django, and Prisma, as well as working with databases such as MongoDB, MySQL, PostgreSQL, and FireBase.
 
 With a strong focus on tokenomics, NFTs, and smart contracts using Solidity, I excel at creating decentralized applications (dApps) and Web3 solutions. My experience in integrating third-party APIs, developing RESTful and GraphQL APIs, and using real-time technologies like Socket.io further enhances my ability to deliver dynamic, user-centered solutions.
