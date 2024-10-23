@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="300"  src="https://github.com/funny-softdev/funny-softdev/blob/main/assets/banner.gif">
 
-- 🔭 I’m currently working as a **Full Stack | WebVR developer**
-- 💬 Ask me about **Three.js, WebVR**
-- ⚡ **<a href="https://funny-web-site.vercel.app/">About ME</a>**
+Experienced full-stack developer with over 10 years of expertise in building scalable, high-performance web and blockchain applications. Proficient in JavaScript, TypeScript, C++, Python, React, Vue.js, Node.js, Express.js, WebGL, and Three.js, with a passion for developing immersive 3D web experiences. Skilled in backend technologies like PHP/Laravel, Python/Django, and Prisma, as well as working with databases such as MongoDB, MySQL, PostgreSQL, and FireBase.
+
+With a strong focus on tokenomics, NFTs, and smart contracts using Solidity, I excel at creating decentralized applications (dApps) and Web3 solutions. My experience in integrating third-party APIs, developing RESTful and GraphQL APIs, and using real-time technologies like Socket.io further enhances my ability to deliver dynamic, user-centered solutions.
 <br/><br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
