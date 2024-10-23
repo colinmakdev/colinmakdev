@@ -14,9 +14,9 @@
 
 <p align="center">
   
-## ***Front-end Development***
+- ***Front-end Development***
   
--  **Languages:**
+  -  **Languages:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,7 +27,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
    
     
--  **Frameworks and Libraries:**
+  -  **Frameworks and Libraries:**
 
 ![React.js](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -47,7 +47,9 @@
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-%23CB3837.svg?style=for-the-badge&logo=web3&logoColor=white)
 
-- **Databases:**  
+- ***Back-end Development***
+  
+  - **Databases:**  
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
