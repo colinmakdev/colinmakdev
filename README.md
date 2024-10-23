@@ -15,7 +15,7 @@
 <p align="center">
   
 - ***Front-end Development***  
-  -  **Languages & Frameworks:**![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  -  **Languages & Frameworks:** ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -26,13 +26,13 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
--  **3D Web Development:**
+  -  **3D Web Development:**
 ![WebGL](https://img.shields.io/badge/WebGL-EEEEEE.svg?style=for-the-badge&logo=webgl&logoColor=CB3837)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23CB3837.svg?style=for-the-badge&logo=web3&logoColor=white)
--  **Graphics & Rendering:**
-![SVG](https://img.shields.io/badge/SVG-EEEEEE.svg?style=for-the-badge&logo=webgl&logoColor=CB3837)
-![Canvas](https://img.shields.io/badge/Canvas-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/babylon.js-%23CB3837.svg?style=for-the-badge&logo=babylon.js3&logoColor=white)
+  -  **Graphics & Rendering:**
+![SVG](https://img.shields.io/badge/SVG-EEEEEE.svg?style=for-the-badge&logo=SVG&logoColor=CB3837)
+![Canvas](https://img.shields.io/badge/Canvas-black?style=for-the-badge&logo=Canvas&logoColor=white)
 
 - ***Back-end Development***
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
